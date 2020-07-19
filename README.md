@@ -42,6 +42,7 @@ Things you may want to cover:
 ## Introduction  
 
 #### About This Project
+rails with omniauth-marvin using docker
 
 #### About Me
 Developer, Designer Be creative!! Currently Studying [@42SiliconValley][42]
@@ -59,9 +60,11 @@ For instructions and/or greater detail refer to the project [pdf][pdf]
 ## Bonus part
 
 ## Dependencies  
-* rails, docker
+* docker, git
 
 ## Installation
+I'm using WSL2(Windows Subsystem for Linux 2) environment.
+
 run ./docker-compose.sh
 Enter the container with vscode
 bundle exec figaro install
@@ -78,7 +81,10 @@ edit MARVIN_ID and MARVIN_SECRET values
 
 ## Credits  
 
-Some frameworks and libraries that were helpful with testing.   
+omniauth-marvin
+https://github.com/fakenine/omniauth-marvin
+how to connect omniauth-facebook in rails
+https://kbs4674.tistory.com/65
 
 ## Disclaimer
 
