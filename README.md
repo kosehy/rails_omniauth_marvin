@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -99,4 +98,3 @@ Enjoy!
 [pdf]: pdf
 
 [kosehy]: https://github.com/kosehy
->>>>>>> e303efd8e433ad9af9411f99371cb1580b51d72a
