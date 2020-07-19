@@ -63,13 +63,12 @@ For instructions and/or greater detail refer to the project [pdf][pdf]
 * docker, git
 
 ## Installation
-I'm using WSL2(Windows Subsystem for Linux 2) environment.
-
-run ./docker-compose.sh
-Enter the container with vscode
-bundle exec figaro install
-go to config/application.yml
-edit MARVIN_ID and MARVIN_SECRET values
+> I'm using WSL2(Windows Subsystem for Linux 2) environment.
+> run ./docker-compose.sh
+> Enter the container with vscode
+> bundle exec figaro install
+> go to config/application.yml
+> edit MARVIN_ID and MARVIN_SECRET values
 
 ## Usage  
 
