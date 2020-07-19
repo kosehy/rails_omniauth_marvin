@@ -60,10 +60,14 @@ For instructions and/or greater detail refer to the project [pdf][pdf]
 ## Bonus part
 
 ## Dependencies  
-* A C language compiler most common would be GCC or Clang.
-* These were written to run on Unix based systems, it would likely work on a windows machine too but is currently untested. 
+* rails, docker
 
-## Installation 
+## Installation
+run ./docker-compose.sh
+Enter the container with vscode
+bundle exec figaro install
+go to config/application.yml
+edit MARVIN_ID and MARVIN_SECRET values
 
 ## Usage  
 
